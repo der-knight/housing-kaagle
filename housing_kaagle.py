@@ -1,7 +1,4 @@
 
-    https://colab.research.google.com/drive/1G9YPdjMy5mnorZAGo0yIt5aNybwr8M1E
-        
-#import pandas sklearn and numpy
 from lightgbm import LGBMRegressor 
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import RandomizedSearchCV
